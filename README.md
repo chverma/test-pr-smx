@@ -19,6 +19,7 @@ Make the pull request (with a meaningful commit message) and wait for it to be a
 * [jmp](files/jmp.md)
 * [pab](files/pab.md)
 * [dsb](files/dsb.md)
+* [rss](files/rss.md)
 ---
 
 END
