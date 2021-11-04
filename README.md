@@ -17,6 +17,8 @@ Make the pull request (with a meaningful commit message) and wait for it to be a
 
 * [cvm](files/cvm.md)
 * [jmp](files/jmp.md)
+* [pab](files/pab.md)
+* [dsb](files/dsb.md)
 ---
 
 END
